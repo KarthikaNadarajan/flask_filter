@@ -1,0 +1,4 @@
+{
+"users":["POST","GET","PUT", "DELETE"],
+"locations":["POST", "GET", "PATCH", "DELETE"]
+}
